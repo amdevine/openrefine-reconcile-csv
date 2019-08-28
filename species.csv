@@ -22,7 +22,7 @@ taxon_id,scientific_name,kingdom,phylum,class,order,family,genus
 3926707,"Anemone devinensis",Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,Anemone
 3923381,"Anemone robusta",Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Ranunculaceae,Anemone
 2871508,"Amorphophallus titanum",Plantae,Tracheophyta,Liliopsida,Alistmatales,Araceae,Amorphophallus
-2508430,"Lineus longissimus",Animalia,Nemertea,Anopla,Lineidae,Lineus
+2508430,"Lineus longissimus",Animalia,Nemertea,Anopla,,Lineidae,Lineus
 6519335,"Cadlinella sagamiensis",Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Cadlinella
 6519570,"Doriprismatica atromarginata",Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Doriprismatica
 5724732,"Ceratosoma tenue",Animalia,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Ceratosoma
