@@ -1,0 +1,81 @@
+record_id,date,location,species
+1,2017-06-23,Maryland,Hypsibius dujardini
+2,2018-06-09,South Carolina,Protula bispiralis
+3,2018-06-09,West Virginia,Monstera deliciosa
+4,2016-03-28,Maryland,Facciolella oxyrhyncha
+5,2018-11-19,Maryland,Iguana iguana
+6,2015-09-28,Virginia,Protula bispiralis
+7,2017-09-04,Pennsylvania,Anemone robusta
+8,2018-04-23,South Carolina,Hemitrichia serpula
+9,2015-12-23,South Carolina,Hemitrichia serpula
+10,2016-12-25,Delaware,Calostoma cinnabarinum
+11,2016-08-06,Delaware,Anemone devinensis
+12,2016-03-13,District of Columbia,Vampyroteuthis infernalis
+13,2016-08-28,Virginia,Cadlinella sagamiensis
+14,2017-05-10,North Carolina,Doriprismatica atromarginata
+15,2018-09-06,West Virginia,Prochlorococcus marinus
+16,2017-10-05,Maryland,Amandinea devilliersiana
+17,2016-01-27,Pennsylvania,Prochlorococcus marinus
+18,2017-10-22,South Carolina,Anemone robusta
+19,2015-05-08,Delaware,Dendrocnide moroides
+20,2016-08-03,Virginia,Prochlorococcus marinus
+21,2016-01-09,North Carolina,Dendrocnide moroides
+22,2016-02-21,Maryland,Monstera deliciosa
+23,2016-11-24,North Carolina,Calostoma cinnabarinum
+24,2015-05-01,West Virginia,Facciolella oxyrhyncha
+25,2015-01-03,West Virginia,Facciolella oxyrhyncha
+26,2016-06-01,District of Columbia,Dendrocnide moroides
+27,2015-03-20,South Carolina,Calostoma cinnabarinum
+28,2015-11-18,South Carolina,Yersinia pestis
+29,2015-10-14,District of Columbia,Yersinia pestis
+30,2017-06-11,South Carolina,Doriprismatica atromarginata
+31,2015-10-05,South Carolina,Cadlinella ornatissima
+32,2016-07-19,Delaware,Vampyroteuthis infernalis
+33,2018-02-04,Delaware,Lagenorhynchus acutus
+34,2016-04-17,North Carolina,Anemone devinensis
+35,2018-04-21,Pennsylvania,Lineus longissimus
+36,2017-12-23,North Carolina,Coffea arabica
+37,2015-11-23,Pennsylvania,Thalassiosira pseudonana
+38,2015-11-28,North Carolina,Monstera deliciosa
+39,2016-09-15,North Carolina,Mola mola
+40,2017-06-03,North Carolina,Physalia physalis
+41,2018-08-08,Virginia,Cadlinella ornatissima
+42,2015-10-26,District of Columbia,Mola mola
+43,2016-08-14,Virginia,Coffea arabica
+44,2016-04-03,Maryland,Lineus longissimus
+45,2015-06-22,Pennsylvania,Physalia physalis
+46,2016-07-22,District of Columbia,Amandinea devilliersiana
+47,2018-09-22,District of Columbia,Trichoplax adhaerens
+48,2017-11-25,Pennsylvania,Chromodoris magnifica
+49,2017-11-21,Maryland,Actias luna
+50,2015-03-18,South Carolina,Lineus longissimus
+51,2018-07-26,Maryland,Thalassiosira pseudonana
+52,2015-08-22,Delaware,Trichoplax adhaerens
+53,2016-02-14,North Carolina,Calostoma cinnabarinum
+54,2017-03-19,West Virginia,Prochlorococcus marinus
+55,2016-03-17,District of Columbia,Amandinea devilliersiana
+56,2015-10-27,Virginia,Vampyroteuthis infernalis
+57,2017-10-19,District of Columbia,Amandinea devilliersiana
+58,2017-01-13,District of Columbia,Prochlorococcus marinus
+59,2017-12-19,South Carolina,Hypsibius dujardini
+60,2018-06-06,Maryland,Hypsibius dujardini
+61,2016-07-15,District of Columbia,Amandinea devilliersiana
+62,2018-01-15,District of Columbia,Paraponera clavata
+63,2018-08-12,West Virginia,Mola mola
+64,2015-02-17,Pennsylvania,Lagenorhynchus acutus
+65,2017-03-15,Pennsylvania,Hypsibius dujardini
+66,2017-03-22,Pennsylvania,Anemone robusta
+67,2016-07-22,Pennsylvania,Mola mola
+68,2017-06-10,South Carolina,Facciolella oxyrhyncha
+69,2016-09-17,West Virginia,Anemone devinensis
+70,2015-03-13,District of Columbia,Physalia physalis
+71,2016-11-09,West Virginia,Mola mola
+72,2015-09-15,West Virginia,Vampyroteuthis infernalis
+73,2017-09-18,District of Columbia,Lagenorhynchus acutus
+74,2018-05-06,Maryland,Calostoma cinnabarinum
+75,2018-07-14,West Virginia,Cadlinella ornatissima
+76,2018-02-28,North Carolina,Lagenorhynchus acutus
+77,2016-03-04,District of Columbia,Hypsibius dujardini
+78,2018-04-06,North Carolina,Amorphophallus titanum
+79,2018-05-03,Delaware,Cadlinella sagamiensis
+80,2017-11-07,Pennsylvania,Facciolella equatorialis
