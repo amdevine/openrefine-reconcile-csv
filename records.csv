@@ -13,7 +13,7 @@ record_id,date,location,species
 12,2016-03-13,District of Columbia,Vampyroteuthis infernalis
 13,2016-08-28,Virginia,Cadlinella sagamiensis
 14,2017-05-10,North Carolina,Doriprismatica atromarginata
-15,2018-09-06,West Virginia,Prochlorococcus marinus
+15,2018-09-06,West Virginia,Bos taurus
 16,2017-10-05,Maryland,Amandinea devilliersiana
 17,2016-01-27,Pennsylvania,Prochlorococcus marinus
 18,2017-10-22,South Carolina,Anemone robusta
@@ -22,7 +22,7 @@ record_id,date,location,species
 21,2016-01-09,North Carolina,Dendrocnide moroides
 22,2016-02-21,Maryland,Monstera deliciosa
 23,2016-11-24,North Carolina,Calostoma cinnabarinum
-24,2015-05-01,West Virginia,Facciolella oxyrhyncha
+24,2015-05-01,West Virginia,Faciolela oxyrynca
 25,2015-01-03,West Virginia,Facciolella oxyrhyncha
 26,2016-06-01,District of Columbia,Dendrocnide moroides
 27,2015-03-20,South Carolina,Calostoma cinnabarinum
@@ -34,10 +34,10 @@ record_id,date,location,species
 33,2018-02-04,Delaware,Lagenorhynchus acutus
 34,2016-04-17,North Carolina,Anemone devinensis
 35,2018-04-21,Pennsylvania,Lineus longissimus
-36,2017-12-23,North Carolina,Coffea arabica
+36,2017-12-23,North Carolina,Cofea farabica
 37,2015-11-23,Pennsylvania,Thalassiosira pseudonana
 38,2015-11-28,North Carolina,Monstera deliciosa
-39,2016-09-15,North Carolina,Mola mola
+39,2016-09-15,North Carolina,Mola mola mola
 40,2017-06-03,North Carolina,Physalia physalis
 41,2018-08-08,Virginia,Cadlinella ornatissima
 42,2015-10-26,District of Columbia,Mola mola
