@@ -28,6 +28,9 @@ Process
 ~~~
 java -Xmx2g -jar reconcile-csv-0.1.2.jar species.csv scientific_name taxon_id
 ~~~
+
+(for very large CSV files, more memory may need to be allocated to the Java program. In that case, you can change the `2` in the above options to `4` or however many gigabytes of memory you would like to allocate.) 
+
 The following message should be printed:
 ~~~
 Starting CSV Reconciliation service
